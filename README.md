@@ -1,5 +1,5 @@
 # zrens-shenanigans
-this is a repo for zren's apk's and ipa's.
+this is a repo for zren's apk's and ipa's and other stuff.
 
 zren just be making shi i swear anyway star🥺
 
